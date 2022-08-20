@@ -1,0 +1,26 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.travel_MainDiv{
+    border: 1px solid lightgray;
+}
+.img1{
+    width: 100%;
+}
+.par , header1 {
+    margin: 20px;
+}
+.movieDiv{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movieDiv i{
+    float: right;
+}
+#achievement_Text span{
+    color: orange;
+}
